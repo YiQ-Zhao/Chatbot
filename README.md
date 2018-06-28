@@ -10,4 +10,6 @@ when running the code. To start the conversation with the chatbot, you just need
 and input your sentenses in the test function.
 
 If you have any questions, feel free to contact me.
+
+## Sample Results
 [img]: ./img.png
