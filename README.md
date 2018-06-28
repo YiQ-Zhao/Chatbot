@@ -12,4 +12,4 @@ and input your sentenses in the test function.
 If you have any questions, feel free to contact me.
 
 ## Sample Results
-[img]: ./img.png
+![img](/img.png)
